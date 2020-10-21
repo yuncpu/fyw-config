@@ -1,0 +1,2 @@
+# fyw-config
+config center
