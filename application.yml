@@ -1,0 +1,8 @@
+env:
+  crux:
+    jpa:
+      batch_size: 10000
+    redisson:
+      enable: true
+    zwcd:
+      url: https://zwcd.yonyougov.top/crux-cisupport
